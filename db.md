@@ -1,6 +1,6 @@
 # ATB-trn Knowledge Base
 
-Generated: 2025-12-21T19:55:00.870Z
+Generated: 2025-12-21T20:01:51.049Z
 
 _Total items: 28_
 
@@ -1288,10 +1288,8 @@ CrazyBox: 200 грн від 500 грн / 250 г маракуї від 500 грн
 
 **Knowledge**
 
-Для отримання картки оберіть банк-партнер Банки партнери для оформлення фізичної та віртуальної картки 
--АТБ Райффайзен Банк: https://raiffeisen.ua/uk/aem/pryvatnym-osobam/vidkryty-rakhunok/payment-cards/kartka-atb.html ✅
--àбанк: https://abank24.page.link/ETSb Ощадбанк: https://www.oschadbank.ua/cifrova-kartka-atb ✅
--Укргазбанк: https://online.ukrgasbank.com/atb/index.html ✅
--Monobank: https://www.monobank.ua/atb Sense Bank: https://sensebank.ua/credit-cards/atb ✅
+Для отримання картки оберіть банк-партнер.
+Банки партнери для оформлення фізичної та віртуальної картки АТБ:
+Райффайзен Банк, àбанк, Ощадбанк, Укргазбанк, Monobank, Sense Bank.
 
 ---
