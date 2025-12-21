@@ -1,8 +1,8 @@
 # ATB-trn Knowledge Base
 
-Generated: 2025-12-19T14:12:58.834Z
+Generated: 2025-12-21T19:55:00.870Z
 
-_Total items: 27_
+_Total items: 28_
 
 ## Table of contents
 - [1. Чи можна друкувати електронні чеки?](#item-1)
@@ -32,6 +32,7 @@ _Total items: 27_
 - [25. По акції Щедрик скільки кульок можна придбати за чек?](#item-25)
 - [26. Де я можу ознайомитись з умовами акції Щедрик?](#item-26)
 - [27. Де я можу зареєструвати код по акції Диволови? Які умови акції Диволови?](#item-27)
+- [28. В каком банке я могу получить карту АТБ?](#item-28)
 
 ---
 
@@ -1272,5 +1273,25 @@ CrazyBox: 200 грн від 500 грн / 250 г маракуї від 500 грн
 Співробітники АТБ та їх родичі можуть брати участь в акції, але не можуть отримати Заохочення.
 Офіційна сторінка акції: https://promo.atbmarket.com/ 
 
+
+---
+
+### 28. В каком банке я могу получить карту АТБ?
+<a id="item-28"></a>
+
+**Service(s):** Карта АТБ  
+**Created at:** _n/a_
+
+**Question**
+
+В каком банке я могу получить карту АТБ?
+
+**Knowledge**
+
+Для отримання картки оберіть банк-партнер Банки партнери для оформлення фізичної та віртуальної картки 
+-АТБ Райффайзен Банк: https://raiffeisen.ua/uk/aem/pryvatnym-osobam/vidkryty-rakhunok/payment-cards/kartka-atb.html ✅
+-àбанк: https://abank24.page.link/ETSb Ощадбанк: https://www.oschadbank.ua/cifrova-kartka-atb ✅
+-Укргазбанк: https://online.ukrgasbank.com/atb/index.html ✅
+-Monobank: https://www.monobank.ua/atb Sense Bank: https://sensebank.ua/credit-cards/atb ✅
 
 ---
