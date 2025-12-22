@@ -1,8 +1,8 @@
 # ATB-trn Knowledge Base
 
-Generated: 2025-12-21T21:26:00.992Z
+Generated: 2025-12-22T13:29:09.825Z
 
-_Total items: 28_
+_Total items: 29_
 
 ## Table of contents
 - [1. Чи можна друкувати електронні чеки?](#item-1)
@@ -33,6 +33,7 @@ _Total items: 28_
 - [26. Де я можу ознайомитись з умовами акції Щедрик?](#item-26)
 - [27. Де я можу зареєструвати код по акції Диволови? Які умови акції Диволови?](#item-27)
 - [28. В каком банке я могу получить карту АТБ?](#item-28)
+- [29. Де я можу зареєструвати код по акції Диволови?](#item-29)
 
 ---
 
@@ -1294,5 +1295,21 @@ CrazyBox: 200 грн від 500 грн / 250 г маракуї від 500 грн
 -Ощадбанк: https://www.oschadbank.ua/cifrova-kartka-atb 
 -Укргазбанк: https://online.ukrgasbank.com/atb/index.html 
 -Monobank: https://www.monobank.ua/atb Sense Bank: https://sensebank.ua/credit-cards/atb
+
+---
+
+### 29. Де я можу зареєструвати код по акції Диволови?
+<a id="item-29"></a>
+
+**Service(s):** Інше  
+**Created at:** _n/a_
+
+**Question**
+
+Де я можу зареєструвати код по акції Диволови?
+
+**Knowledge**
+
+По акції Диволови Ви можете зареєструвати код тут: https://promo.atbmarket.com/
 
 ---
