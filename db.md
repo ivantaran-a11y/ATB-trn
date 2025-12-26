@@ -1,8 +1,8 @@
 # ATB-trn Knowledge Base
 
-Generated: 2025-12-24T09:59:53.100Z
+Generated: 2025-12-26T14:55:13.712Z
 
-_Total items: 34_
+_Total items: 35_
 
 ## Table of contents
 - [1. Чи можна друкувати електронні чеки?](#item-1)
@@ -41,6 +41,7 @@ _Total items: 34_
 
 «Код не пройшов перевірку. Ви можете звернутись на гарячу лінію», чому?](#item-33)
 - [34. По акції Диволови Коли і де буде розіграш?](#item-34)
+- [35. Почему доставка опаздывает?](#item-35)
 
 ---
 
@@ -1427,5 +1428,21 @@ https://play.google.com/store/apps/details?id=com.atb.atbmarket&pcampaignid=web_
 **Knowledge**
 
 23.01.2026 р. у прямому ефірі на наступних інтернет-майданчиках: https://www.youtube.com/atbmarkettm, https://www.facebook.com/ATB.Market.™ https://www.instagram.com/atb.market.official  
+
+---
+
+### 35. Почему доставка опаздывает?
+<a id="item-35"></a>
+
+**Service(s):** Інтернет-Магазин АТБ  
+**Created at:** _n/a_
+
+**Question**
+
+Почему доставка опаздывает?
+
+**Knowledge**
+
+Час доставки замовлення: 60-120 хвилин (під час воєнного стану час очікування кур'єра може бути збільшений).
 
 ---
